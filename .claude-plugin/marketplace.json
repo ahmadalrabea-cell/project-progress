@@ -1,0 +1,6 @@
+{
+  "name": "project-progress",
+  "description": "Project progress status line and usage band",
+  "owner": { "name": "ahmadalrabea-cell" },
+  "plugins": [{ "name": "project-progress", "source": "./" }]
+}
